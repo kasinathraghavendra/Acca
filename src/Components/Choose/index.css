@@ -1,0 +1,35 @@
+.choose {
+  text-align: center;
+}
+.place {
+  display: flex;
+  flex-direction: row;
+  margin-right: 20px;
+}
+.placeimage {
+  height: 100px;
+  width: 30%;
+  margin-top: 10px;
+}
+.download {
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+.now {
+  background-color: blue;
+  color: white;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10x;
+}
+.expert {
+}
+.enrol {
+  background-color: white;
+  color: purple;
+  width: 300px;
+  height: 5vh;
+}

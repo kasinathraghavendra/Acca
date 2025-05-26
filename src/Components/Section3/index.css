@@ -1,0 +1,26 @@
+.Placement {
+  background-color: pink;
+  height: 50vh;
+  background-size: cover;
+}
+.counselling {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: purple;
+  padding-left: 10%;
+}
+.build {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.guide {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 0%;
+}

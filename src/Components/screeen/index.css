@@ -1,0 +1,33 @@
+.scre {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  top: 10%;
+  margin-top: 5%;
+}
+.icon {
+  display: flex;
+  flex-direction: row;
+  background-color: skyblue;
+  margin-right: 10px;
+  width: 200px;
+  height: 80px;
+  justify-content: space-evenly;
+  font-size: 10px;
+  align-items: center;
+  justify-items: center;
+  border-top-right-radius: 10%;
+  border-bottom-right-radius: 10%;
+  border-top-left-radius: 10%;
+  border-bottom-left-radius: 10%;
+}
+
+.para {
+  display: flex;
+  flex-direction: column;
+}
+
+.book {
+  height: 10vh;
+}

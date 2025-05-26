@@ -1,0 +1,31 @@
+.container {
+  background-color: #2434bf;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  color: aliceblue;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.nav1 {
+  display: flex;
+  flex-direction: row;
+  font-size: 10px;
+}
+.nav2 {
+  color: aliceblue;
+  display: flex;
+  flex-direction: row;
+}
+P {
+  margin: 10px;
+}
+.login {
+  background-color: white;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px;
+}
